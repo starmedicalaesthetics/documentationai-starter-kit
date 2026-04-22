@@ -2,10 +2,14 @@
   "name": "Starter Kit",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#d66f4f",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#d66f4f",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
@@ -167,5 +171,9 @@
       "chatgpt",
       "mcp"
     ]
-  }
+  },
+  "template": "classic",
+  "logo-dark": "https://blob-cdn.documentation.ai/org-caa313f8-922c-4895-a8b3-2d8e37fe94f9/doc-84b80084-8398-40e0-9bdd-522dd6893362/1776890197259-kcj8z21fsp-StarMedicalWellness_LOGO-copy.png?fm=auto&auto=compress%2Cformat",
+  "logo-light": "https://blob-cdn.documentation.ai/org-caa313f8-922c-4895-a8b3-2d8e37fe94f9/doc-84b80084-8398-40e0-9bdd-522dd6893362/1776890197259-kcj8z21fsp-StarMedicalWellness_LOGO-copy.png?fm=auto&auto=compress%2Cformat",
+  "favicon": "https://blob-cdn.documentation.ai/org-caa313f8-922c-4895-a8b3-2d8e37fe94f9/doc-84b80084-8398-40e0-9bdd-522dd6893362/1776890249391-zcnpfdto2uf-logo_circle.png?fm=auto&auto=compress%2Cformat"
 }
