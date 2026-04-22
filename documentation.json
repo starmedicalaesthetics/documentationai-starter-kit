@@ -150,5 +150,13 @@
         ]
       }
     ]
+  },
+  "integrations": {
+    "gtm": {
+      "tagId": "G-0VDKWTKZZF"
+    },
+    "ga4": {
+      "measurementId": "G-YJJ7G3QBRC"
+    }
   }
 }
